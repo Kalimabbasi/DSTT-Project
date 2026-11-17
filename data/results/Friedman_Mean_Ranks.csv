@@ -1,0 +1,7 @@
+model,0
+Global_Transfer_LSTM,1.7777777777777777
+Phys_LSTM,2.5
+Random_Forest_Phys,3.611111111111111
+Baseline_LSTM,3.6666666666666665
+Naive_t-168h,4.5
+Ridge_Phys,4.944444444444445
